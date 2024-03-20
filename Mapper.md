@@ -1,3 +1,14 @@
+# The mapper should be named using the following convention: M3BOD_BODNoun_BODVerb_Direction
+
+## Components
+### BODNoun: This is the actual map name.
+### BODVerb: This represents the action being performed. It can be one of the following:
+### Sync
+### Process
+### Acknowledgment
+### Direction: This indicates whether the BOD is being sent to or received from M3. It can be either 'In' or 'Out'.
+
+
 # Steps To Trigger the Map.
 
 ### Map Trigger
